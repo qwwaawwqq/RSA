@@ -1,6 +1,6 @@
 
 # Filename: libRSA.s
-# Author: Team3
+# Author: Team3 Boleslaw Ruszowski, Rebecca Mosier, Michael Budney, Ting Wei Wang 
 # Date: 4/14/2024
 # Purpose: Functions for RSA Encryption
 
