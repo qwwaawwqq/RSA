@@ -1,7 +1,7 @@
 # RSA Encryption Tool
 
 ## Overview
-This RSA Encryption Tool is developed in Python and provides a simple command-line interface to generate RSA keys, encrypt messages, and decrypt messages. RSA (Rivest-Shamir-Adleman) is one of the first public-key cryptosystems and is widely used for secure data transmission.
+This RSA Encryption Tool is developed in Python/Java/Assembly and provides a simple command-line interface to generate RSA keys, encrypt messages, and decrypt messages. RSA (Rivest-Shamir-Adleman) is one of the first public-key cryptosystems and is widely used for secure data transmission.
 
 ## Features
 - **Key Generation**: Generate RSA public and private keys.
@@ -9,12 +9,9 @@ This RSA Encryption Tool is developed in Python and provides a simple command-li
 - **Decryption**: Decrypt a message using the RSA private key.
 - **File Handling**: Encrypt and decrypt messages are written to and read from files respectively.
 
-## Requirements
-- Python 3.x
 
 Usage
-Run the program with:
-python main.py
+
 Follow the on-screen prompts to:
 1. Generate Private and Public Keys
 2. Encrypt a Message
